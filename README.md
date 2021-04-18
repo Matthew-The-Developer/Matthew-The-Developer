@@ -1,6 +1,4 @@
-## Hello 👋🏻
-
----
+# Hello 👋🏻
 
 I'm a Full-stack software developer/engineer/designer for web applications, APIs, and cloud functions.
 
