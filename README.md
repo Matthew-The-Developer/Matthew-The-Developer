@@ -1,4 +1,4 @@
-# Hello 👋🏻
+# <span style="background: -webkit-linear-gradient(#eee, #46b3ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Hello</span> 👋🏻
 
 I'm a Full-stack software developer/engineer/designer for web applications, APIs, and cloud functions.
 
