@@ -3,7 +3,6 @@
 I'm a Full-stack software developer/engineer/designer for web applications, APIs, and cloud functions.
 
 - 💼 Currently employed at [Underwriters Laboratories](https://www.ul.com/).
-- 🕸 Freelance Divi/Wordpress website designer.
 - 👨🏻‍💻 Focused on learning Progressive Web Applications.
 - 👨🏻‍💼 Open to new projects and opportunties.
 
