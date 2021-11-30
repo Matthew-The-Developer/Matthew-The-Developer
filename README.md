@@ -2,7 +2,7 @@
 
 I'm a Full-stack software developer/engineer/designer for web applications, APIs, and cloud functions.
 
-- 💼 Currently employed at [Underwriters Laboratories](https://www.ul.com/).
+- 💼 Currently employed at [Dialysis Clinic, Inc.](https://www.dciinc.org/).
 - 👨🏻‍💻 Focused on learning Progressive Web Applications.
 - 👨🏻‍💼 Open to new projects and opportunties.
 
