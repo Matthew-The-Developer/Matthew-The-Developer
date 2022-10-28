@@ -3,7 +3,7 @@
 I'm a Full-stack software developer/engineer/designer for web applications, APIs, and cloud functions.
 
 - 💼 Currently employed at [Dialysis Clinic, Inc.](https://www.dciinc.org/)
-- 👨🏻‍💻 Focused on learning Progressive Web Applications.
+- 👨🏻‍💻 Trying to figure out how to make Angular Material Look good
 - 👨🏻‍💼 Open to new projects and opportunties.
 
 ---
